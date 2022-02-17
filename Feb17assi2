@@ -1,0 +1,11 @@
+a=-1
+b=1
+Sum=0
+n=int(input('enter number'))
+for I in range (1,n+1,):
+    C=a+b
+    Sum=c+sum
+    Print(c)
+    a=b
+    b=c
+Print(sum)
